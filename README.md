@@ -1,8 +1,8 @@
 ## - 👋 Hi, I’m @Qasim-Aziz 
 - 👀 I’m interested in DevOps, Kubernetes (CKAD), Docker, Python
-- 🌱 I’m currently learning DeepLearing with Tensorflow 
+- 🌱 I’m currently Working as Devops in Cloudlaunch Ltd.
 - 💞️ I’m looking to collaborate on kubernetes 
-- 📫 How to reach me ...envoyfacilitation@gmail.com |qasimaziz37@gmail.com | +923006891683 
+- 📫 How to reach me ...envoyfacilitation@gmail.com | qasim@opshive.io | +92300-6891683 
 
 <!---
 Qasim-Aziz/Qasim-Aziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
