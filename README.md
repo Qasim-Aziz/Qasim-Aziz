@@ -1,14 +1,14 @@
-<!-- ## - 👋 Hi, I’m @Qasim-Aziz 
+## - 👋 Hi, I’m @Qasim-Aziz 
 - 👀 I’m interested in DevOps, Kubernetes (CKAD), Docker, golang
 - 🌱 I’m currently Working as Devops in Cloudlaunch Ltd.
 - 💞️ I’m looking to collaborate on kubernetes 
-- 📫 How to reach me ...envoyfacilitation@gmail.com | qasim@opshive.io | +92300-6891683 
+- 📫 How to reach me ...envoyfacilitation@gmail.com | qasim@opshive.io | +92300-6891683 whatsapp
 
 <!---
 Qasim-Aziz/Qasim-Aziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> -->
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Qasim Aziz</h1>
+--->
+<!-- <h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Qasim Aziz</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
     DevOps Engineer
@@ -81,7 +81,7 @@ Overall, my professional focus lies in orchestrating and optimizing deployment p
 <details>
   <summary><h4> <img align="center" src="https://github.com/qasim-aziz/qasim-aziz/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">GridGamers</a>
+  #### <a href="https://github.com/qasim-aziz/gridgamers.com]">GridGamers</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
@@ -133,4 +133,4 @@ Overall, my professional focus lies in orchestrating and optimizing deployment p
 ### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
+END_SECTION:activity -->
